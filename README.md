@@ -1,7 +1,5 @@
 - 👋 Hi, I’m valfrae
-- 🌱 I'm a first year student at the University of British Columbia
-- 👀 I’m really interested in making machine learning & currently learning C and Python 3
-- 📫 Email me @ valfrae15@gmail.com or find me on ig @valfrae
+- 🌱 I'm a first year computer science & engineering student
 
 <!---
 valfrae/valfrae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
